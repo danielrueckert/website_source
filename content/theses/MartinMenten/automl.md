@@ -1,6 +1,6 @@
 ---
 title: "MSc Thesis (jointly with Carl ZEISS Meditec AG): conversational AI to streamline scientific research workflows"
-date: 2023-23-11
+date: 2023-11-23
 authors: ["MartinMenten"]
 ---
 
