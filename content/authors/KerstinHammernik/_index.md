@@ -71,7 +71,7 @@ email: "k.hammernik@tum.de"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Senior Researchers"
+- "Alumni"
 ---
 
 Kerstin Hammernik is a research scientist at the Institute of Artificial Intelligence and Informatics in Medicine, Technical University of Munich, Germany and at the Department of Computing, Imperial College London, United Kingdom. In 2019, she received her PhD degree in Computer Science from Graz University of Technology, Austria. Her PhD thesis "Variational Networks for Medical Image Reconstruction" was supervised by Prof. Thomas Pock, Institute of Computer Graphics and Vision, Graz University of Technology. During her PhD, she spent four months as a research intern at the Center for Advanced Imaging Innovation and Research, New York University School of Medicine, USA. Her research interests are inverse problems and machine learning in medical imaging, with a special focus on fast MRI acquisition and reconstruction for cardiac and musculoskeletal applications
