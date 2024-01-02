@@ -1,10 +1,10 @@
 ---
-title: "MSc Thesis (jointly with Carl ZEISS Meditec AG): conversational AI to streamline scientific research workflows"
-date: 2023-11-23
+title: "MSc Thesis (jointly with Carl Zeiss Meditec AG): Large language models to streamline scientific research workflows"
+date: 2024-01-01
 authors: ["MartinMenten"]
 ---
 
-This collaborative research project will explore the use of conversational AI to streamline scientific research workflows. Emphasis will be placed on the use of large language models and innovative data storage solutions to enable human interaction with large scientific databases. Building upon inital results, the project will further explore the ability to include continual learning with the developed tools. The prospective student work in the AI and Machine Learning R&D team at Carl ZEISS Meditec AG, while also being part of both the lab of AI in Medicine at TUM. 
+This collaborative research project will explore the use of conversational AI to streamline scientific research workflows. Emphasis will be placed on the use of large language models and innovative data storage solutions to enable human interaction with large scientific databases. Building upon initial results, the project will further explore the ability to integrate continual learning with the developed tools. The prospective student work in the AI and Machine Learning R&D team at Carl ZEISS Meditec AG, while also being part of the Lab for AI in Medicine at TUM. 
 </br>
 
 ## Your qualifications:
@@ -18,10 +18,10 @@ This collaborative research project will explore the use of conversational AI to
 
 ## Our offer:
 
+- Be part of an exciting collaboration between academia and industry and work with experts in machine learning from TUM and Carl Zeiss Meditec AG.
+- A contract and salary as student employee at Zeiss.
 - An exciting research project with many opportunities to bring in your own ideas.
-- The chance be part of a collaboration from academia and industry.
 - Close supervision and access to state-of-the-art computer hardware.
-- The opportunity to work as a student employee at Carl ZEISS Meditec AG.
 </br>
 
 To apply please send an email Christoph Dinh (christoph.dinh@zeiss.com), Raja Judeh (raja.judeh@zeiss.com) and Martin Menten (martin.menten@tum.de) with your CV and a recent transcript of records.
