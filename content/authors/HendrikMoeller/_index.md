@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Affiliated Researcher
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -58,7 +58,7 @@ email: "hendrik.moeller@tum.de"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Collaborators
+- "Researchers"
 ---
 
 Hendrik Möller is a doctorate student in computer science at the University Hospital rechts der Isar at TUM. He works in an EU-funded project around the NAKO (transl. national cohort) dataset, a large MRI cohort representing the german population. He develops machine learning methods to label and segment these scans with a practical orientation.
