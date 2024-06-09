@@ -7,9 +7,7 @@ authors: ["JohannesPaetzold", "SuprosannaShit"]
 This project can be hosted in Munich and/or Zurich @Biomedical Image Analysis & Machine Learning Group,
 University of Zurich.
 
-<p align="center">
-    <img src="./header.png" width="800">
-</p>
+![img](Images/diffImg.png)
 
 ### Background:
 Topology is vital in medical image segmentation, emphasizing anatomically correct structures & removing incorrect ones. Previous works [1-3] explored how to enforce topological constraints, however, are applied only at training. Recent diffusion-based models [4, 5] offer a novel way to enforce topological constraints during inference.
