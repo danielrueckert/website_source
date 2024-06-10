@@ -1,7 +1,7 @@
 ---
 title: "MSc Thesis: Diffusion-based Topology-preserving Medical Image Segmentation"
 date: 2024-06-07
-authors: ["JohannesPaetzold", "SuprosannaShit"]
+authors: ["JohannesPaetzold", "Suprosanna Shit"]
 ---
 
 This project can be hosted in Munich and/or Zurich @Biomedical Image Analysis & Machine Learning Group,
@@ -30,7 +30,7 @@ We are looking for a highly motivated Master’s student in CS, Physics, Enginee
 - Access to state-of-the-art computer hardware.
 
 ### How to apply:
-​Please send your CV and transcript to Johannes Paetzold (johannes.paetzold@tum.de) and Bastian Wittmann (bastian.wittmann@uzh.ch).
+​Please send your CV and transcript to Johannes Paetzold (johannes.paetzold@tum.de) and Suprosanna Shit (suprosanna.shit@uzh.ch).
 Links to previous work (e.g., your GitHub profile) are highly appreciated.
 ​
 ### References:
