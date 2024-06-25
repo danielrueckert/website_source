@@ -1,6 +1,6 @@
 ---
 title: "Practical Course: Applied Deep Learning in Medicine"
-date: 2024-01-11
+date: 2024-06-24
 authors: ["AlexZiller"]
 draft: false
 tags:
@@ -33,7 +33,7 @@ In short this course offers students to:
  - Final presentation
 
 ## Preliminary meeting
-A preliminary meeting will take place on 5th of Febuary, 2024 at 11:00 on zoom with the following details: \
+A preliminary meeting will take place on 04.07.2024 at 14:00 on zoom with the following details: \
 https://tum-conf.zoom.us/j/69075883519 
 
 Meeting ID: 690 7588 3519 \

@@ -79,5 +79,3 @@ user_groups:
 ---
 
 Alexander Ziller is a PhD student at the Institute of Radiology and Artificial Intelligence and at the Chair for Artificial Intelligence in Medicine at the Technical University of Munich (TUM). His main research focus is located in the field of privacy preserving machine learning. His work led to publications in major venues such as Nature Machine Intelligence. Furthermore, he investigates the usage of deep learning methods for diagnostics of pancreatic ductal adenocarcinoma, aiming at improved outcomes for tumour patients. He received his Master of Science in 2019 from TUM and was awarded the Intercultural Certificate for his efforts in connecting with other cultures.
-
-Topics for BSc and MSc Thesis, Semester Projects, IDPs, Guided Research or any other student project can always be discussed on inquiry.
