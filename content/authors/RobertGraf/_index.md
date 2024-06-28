@@ -27,7 +27,7 @@ interests:
 - Computer Vision for Spine Processing
 - Image2Image
 - Denoising Diffusion
-- Large Edibmiolocial Studies
+- Large Epidemiological Studies
 
 
 education:
