@@ -22,7 +22,8 @@ bio:  DL
 
 interests:
 - AI in Biomedical Imaging
-- Graph Neural Networks
+- Graphs in Medical AI
+- Interpretable AI 
 
 
 education:
