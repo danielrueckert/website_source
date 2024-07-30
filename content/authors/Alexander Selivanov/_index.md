@@ -48,7 +48,7 @@ social:
   link: https://github.com/Alsalivan
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/alsalivan
+  link: https://www.linkedin.com/in/alsalivan/
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.com/citations?user=rG8PbzsAAAAJ&hl=de
