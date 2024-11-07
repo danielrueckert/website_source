@@ -5,7 +5,7 @@ title: "AIM Lab @ MICCAI 2024"
 subtitle: ""
 summary: "Fantastic scientific discussions in Marrakech at MICCAI 2024"
 
-authors: ["Daniel Rueckert"]
+authors: ["Daniel Rückert"]
 tags: []
 categories: []
 date: 2024-10-10T13:45:38+02:00

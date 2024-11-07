@@ -5,7 +5,7 @@ title: "Alphabet and Google visit AIM Lab"
 subtitle: ""
 summary: "Visit of CEO of Alphabet and Google to AIM Lab"
 
-authors: ["Daniel Rueckert"]
+authors: ["Daniel Rückert"]
 tags: []
 categories: []
 date: 2024-02-16T13:45:38+02:00

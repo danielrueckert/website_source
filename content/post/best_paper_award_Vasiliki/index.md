@@ -5,7 +5,7 @@ title: "MIDL Best Paper Award"
 subtitle: ""
 summary: "MIDL Best Paper Award for Vasiliki Sideri-Lampretsa"
 
-authors: ["Daniel Rueckert"]
+authors: ["Daniel Rückert"]
 tags: []
 categories: []
 date: 2024-07-05T13:45:38+02:00
