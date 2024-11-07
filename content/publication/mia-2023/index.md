@@ -3,7 +3,7 @@
 
 title: "Generative myocardial motion tracking via latent space exploration with biomechanics-informed prior."
 authors: [C. Qin, S. Wang, C. Chen, W. Bai, D. Rueckert,]
-date: 2024-11-24
+date: 2022-07-15
 doi: "https://doi.org/10.1016/j.media.2022.102682"
 
 # Schedule page publish date (NOT publication's date).
