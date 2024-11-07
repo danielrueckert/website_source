@@ -8,8 +8,8 @@ summary: "Visit of CEO of Alphabet and Google to AIM Lab"
 authors: ["Daniel Rückert"]
 tags: []
 categories: []
-date: 2024-02-16T13:45:38+02:00
-lastmod: 2024-02-16T13:45:38+02:00
+date: 2024-02-17T13:45:38+02:00
+lastmod: 2024-02-17T13:45:38+02:00
 featured: false
 draft: false
 
@@ -20,6 +20,7 @@ image:
   caption: ""
   focal_point: "Center"
   preview_only: false
+social:
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

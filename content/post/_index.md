@@ -1,14 +1,11 @@
 ---
-title: News
+# An instance of the Blank widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+widget: blank
+active: true
+headless: false
+title: "News"
+subtitle:
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 1
 
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
 ---
