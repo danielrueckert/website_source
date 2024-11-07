@@ -5,7 +5,7 @@ title: "AIM Lab Mountain Retreat"
 subtitle: ""
 summary: "Fantastic dicussions and memories from our yearly retreat."
 
-authors: ["Daniel Rueckert"]
+authors: ["Daniel Rückert"]
 tags: []
 categories: []
 date: 2024-02-10T13:45:38+02:00
