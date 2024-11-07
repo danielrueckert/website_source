@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. rer. nat. Simone Gehrer
+title: Simone Gehrer
 
 # Username (this should match the folder name)
 authors:
@@ -21,6 +21,10 @@ organizations:
 bio: My responsibilities include scientific project management and support in grant preparation
 
 interests:
+- Science Coordination
+- Collaborations
+- Scientific Project Management
+
 
 
 education:
@@ -56,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Senior Researchers"
+- "Management"
 ---
 
 Simone Gehrer joined the Chair for AI in medicine as a science manager in 2023. Her responsibilities include scientific project management and support in grant preparation. Before joining the AIM lab, she was working as a scientific coordinator at FAU Erlangen for a central institute and the iRTG of a CRC.

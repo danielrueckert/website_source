@@ -64,6 +64,6 @@ email: "sabine.franke@tum.de"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Team Support"
+- "Management"
 ---
 Sabine Franke supports the Lab for AI in Medicine as a member of the administrative staff at the TU campus in Garching. She graduated in 2014 from the University of Graz, Austria, with a degree in conference interpreting for German, English and Spanish. Before joining the team at the TU Munich, she spent several years working as a translator and interpreter in Germany as well as in the Netherlands, adding Dutch to her working languages.
