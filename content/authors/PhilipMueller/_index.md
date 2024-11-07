@@ -18,13 +18,14 @@ organizations:
   url: "https://www.translatum.tum.de/en/translatum/research-groups/daniel-rueckert-ai-in-healthcare-and-medicine/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applications of multi-modal learning in radiology with focus on image and text modalities.
+bio: My research interests include vision-language models and localization.
 
 
 interests:
   - Multi-Modal Learning
-  - Natural Language Processing
-  - Geometric Deep Learning
+  - Vision-Language Models
+  - Localization / Object Detection
+  - Representation Learning
 
 education:
   courses:
@@ -43,20 +44,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:philip.j.mueller@tum.de
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/philip-j-mueller/
-# - icon: xing-square
-#  icon_pack: fab
-#  link: https://www.xing.com/profile/Leonhard_Feiner
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.de/citations?user=QhxDJVEAAAAJ
 - icon: github-square
   icon_pack: fab
   link: https://github.com/philip-mueller
-# - icon: cv
-#  icon_pack: ai
-#  link: files/cv.pdf
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/philip-j-mueller/
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -68,5 +64,5 @@ user_groups:
 - "Researchers"
 ---
 
-Philip Müller is a Ph.D. student at the Institutes of Radiology and Artificial Intelligence and Informatics
-in Medicine at the Technical University of Munich (TUM). In 2020 he received his Master's degree in Informatics at TUM with focus on deep learning. During his Master's thesis at the Computer Vision Group at TUM, he developed rotation-equivariant deep learning models for the use on diffusion-MRI scans. Currently, he is researching applications of multi-modal learning in radiology with focus on image and text modalities.
+Philip Müller is a Ph.D. student at the Institute of Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). In 2020 he received his Master’s degree in Informatics at TUM. During his Master’s thesis at the Computer Vision Group at TUM, he developed rotation-equivariant deep learning models for the use on diffusion-MRI scans. Currently, his research focuses on vision-language models and localization.
+
