@@ -3,7 +3,7 @@
 
 title: "Causality-inspired Single-source Domain Generalization for Medical Image Segmentation."
 authors: [C. Ouyang, C. Chen, S. Li, Z. Li, C. Qin, W. Bai, D. Rueckert,]
-date: 2024-01-19
+date: 2022-11-23
 doi: "https://doi.org/10.1109/TMI.2022.3224067"
 
 # Schedule page publish date (NOT publication's date).
