@@ -18,7 +18,7 @@ organizations:
   url: "https://www.translatum.tum.de/en/translatum/research-groups/daniel-rueckert-ai-in-healthcare-and-medicine/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Huaqi (Harvey) Qiu, PhD is a researcher at the Chair of Artificial Intelligence in Healthcare and Medicine in Technical University of Munich. His research explores the use of modern multi-modal Machine Learning algorithms for preventive sports medicine and sports cardiology using real clinical data. Prior to joining the lab, Harvey received his PhD in Computing Research from Imperial College London where he focused on Deformable Image Registration using Deep Learning, with application in cardiac imaging. In his current position, he is also continuing work on medical image registration, with a new focus on building accessible registration tools for modern medical imaging research using deep learning frameworks. 
+bio: Huaqi (Harvey) Qiu, PhD is a researcher at the Chair of Artificial Intelligence in Healthcare and Medicine in Technical University of Munich. His research explores the use of modern multi-modal Machine Learning algorithms for preventive sports medicine and sports cardiology using real clinical data.
 
 interests:
 - Multi-modal machine learning in medicine
@@ -66,4 +66,4 @@ user_groups:
 - "Senior Researchers"
 ---
 
-Huaqi (Harvey) Qiu, PhD is a researcher at the Chair of Artificial Intelligence in Healthcare and Medicine in Technical University of Munich. His research explores the use of modern multi-modal Machine Learning algorithms for preventive sports medicine and sports cardiology using real clinical data.
+Huaqi (Harvey) Qiu, PhD is a researcher at the Chair of Artificial Intelligence in Healthcare and Medicine in Technical University of Munich. His research explores the use of modern multi-modal Machine Learning algorithms for preventive sports medicine and sports cardiology using real clinical data. Prior to joining the lab, Harvey received his PhD in Computing Research from Imperial College London where he focused on Deformable Image Registration using Deep Learning, with application in cardiac imaging. In his current position, he is also continuing work on medical image registration, with a new focus on building accessible registration tools for modern medical imaging research using deep learning frameworks. 
