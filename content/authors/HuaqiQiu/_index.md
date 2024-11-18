@@ -47,7 +47,7 @@ social:
   link: mailto:harvey.qiu@tum.de
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/huaqi-qiu
+  link: https://www.linkedin.com/in/huaqi-qiu
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=tTAdtzYAAAAJ&hl=en&oi=ao
