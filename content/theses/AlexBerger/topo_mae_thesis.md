@@ -1,9 +1,7 @@
 ---
-
 title: "MSc Thesis: Self-Supervised Pretraining for Topologically Accurate Medical Imaging"
 date: 2024-11-29
 authors: ["AlexBerger", "LaurinLux", "JohannesPaetzold"]
-draft: false
 
 ---
 
@@ -13,7 +11,7 @@ This Master's thesis focuses on developing novel pre-training strategies to pres
 
 <br/>
 
-![](betti_matching.jpg)
+![Chest CT scan](https://www.melbourneradiology.com.au/wp-content/uploads/2021/06/CT-CHEST-0002-1024x1012.jpg)
 
 <br/>
 
@@ -43,9 +41,6 @@ Just send an email to a.berger@tum.de, laurin.lux@tum.de, and jpaetzold@med.corn
 
 <br/>
 
-![Chest CT scan](https://www.melbourneradiology.com.au/wp-content/uploads/2021/06/CT-CHEST-0002-1024x1012.jpg)
-
-<br/>
 
 
 ## References:
