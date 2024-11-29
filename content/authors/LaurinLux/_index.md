@@ -18,7 +18,7 @@ organizations:
   url: "https://www.translatum.tum.de/en/translatum/research-groups/daniel-rueckert-ai-in-healthcare-and-medicine/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  DL
+bio: My interest lies in exploring and processing underlying graph structures in the biomedical domain. 
 
 interests:
 - AI in Biomedical Imaging
