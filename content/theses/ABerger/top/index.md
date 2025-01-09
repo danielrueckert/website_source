@@ -8,6 +8,7 @@ Deep-learning models achieve high performance on various biomedical prediction t
 
 This Master's thesis focuses on developing novel pre-training strategies to preserve these fine-grained structures in medical images. Specifically, we aim to incorporate methods from digital topology to capture and maintain topological information during image reconstruction. Our approach builds on recent advances in topological loss functions for training segmentation networks [2,3,4].
 
+Note that we also offer other projects in the field of topology-preserving image segmentation. For more information, see our profiles.
 <br/>
 
 
