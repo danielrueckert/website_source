@@ -39,6 +39,8 @@ https://tum-conf.zoom.us/j/69075883519
 Meeting ID: 690 7588 3519 \
 Passcode: 850155 
 
+[Slides - SoSe 2025](PracticalPreMeeting-SoSe25.pdf)
+
 [Slides - WS 2024/25](PracticalPreMeeting-WiSe2425.pdf)
 
 [(Outdated)Slides - SoSe 2024](PracticalPreMeeting-SoSe24.pdf)
