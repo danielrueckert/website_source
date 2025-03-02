@@ -1,6 +1,6 @@
 ---
 title: "IDP/Thesis: Physics-based deep learning for hyperspectral neuronavigation"
-date: 2024-11-18
+date: 2025-03-01
 authors: ["IvanEzhov"]
 ---
 Hyperspectral imaging (HSI) is an optical technique that processes the electromagnetic spectrum at a multitude of monochromatic, adjacent frequency bands. The wide-bandwidth spectral signature of a target object's reflectance allows fingerprinting its physical, biochemical, and physiological properties. HSI has been applied for various applications, such as remote sensing and biological tissue analysis. Recently, HSI was also used to differentiate between healthy and pathological tissue under operative conditions in a surgery room on patients diagnosed with brain tumors [1]. 
