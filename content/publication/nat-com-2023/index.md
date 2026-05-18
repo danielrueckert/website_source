@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: " A deep learning method for replicate-based analysis of chromosome conformation contacts using Siamese neural networks."
+title: "A deep learning method for replicate-based analysis of chromosome conformation contacts using Siamese neural networks."
 authors: [E. Al-jibury, J. W. D. King, Y. Guo, B. Lenhard, A. G. Fisher, M. Merkenschlager, D. Rueckert]
 date: 2023-08-24
 doi: "https://doi.org/10.1038/s41467-023-40547-9"

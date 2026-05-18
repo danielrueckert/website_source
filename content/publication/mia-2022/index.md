@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Enhancing MR image segmentation with realistic adversarial data augmentation."
-authors: [CChen, C. Qin, C. Ouyang, Z. Li, S. Wang, H. Qiu, L. Chen, G. Tarroni, W. Bai, D. Rueckert,]
+authors: [C. Chen, C. Qin, C. Ouyang, Z. Li, S. Wang, H. Qiu, L. Chen, G. Tarroni, W. Bai, D. Rueckert,]
 date: 2022-09-24
 doi: "https://doi.org/10.1016/j.media.2022.102597"
 

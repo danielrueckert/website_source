@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Private Graph Neural Networks for Whole-Graph Classification."
-authors: [QT. T. Mueller, J. C. Paetzold, C. Prabhakar, D. Usynin, D. Rueckert, G. Kaissis,]
-date: 2022-06-01
+title: "Differentially Private Graph Neural Networks for Whole-Graph Classification."
+authors: [T. T. Mueller, J. C. Paetzold, C. Prabhakar, D. Usynin, D. Rueckert, G. Kaissis,]
+date: 2023-06-01
 doi: "https://doi.org/10.1109/TPAMI.2022.3228315"
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2024
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE transactions on medical imaging, 43(4): 1489-1500, 2024"
+publication: "IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(6): 7308-7318, 2023."
 publication_short: ""
 
 abstract: "Graph Neural Networks (GNNs) have established themselves as state-of-the-art for many machine learning applications such as the analysis of social and medical networks. Several among these datasets contain privacy-sensitive data. Machine learning with differential privacy is a promising technique to allow deriving insight from sensitive data while offering formal guarantees of privacy protection. However, the differentially private training of GNNs has so far remained under-explored due to the challenges presented by the intrinsic structural connectivity of graphs. In this work, we introduce a framework for differential private graph-level classification. Our method is applicable to graph deep learning on multi-graph datasets and relies on differentially private stochastic gradient descent (DP-SGD). We show results on a variety of datasets and evaluate the impact of different GNN architectures and training hyperparameters on model performance for differentially private graph classification, as well as the scalability of the method on a large medical dataset. Our experiments show that DP-SGD can be applied to graph classification tasks with reasonable utility losses. Furthermore, we apply explainability techniques to assess whether similar representations are learned in the private and non-private settings. Our results can also function as robust baselines for future work in this area."

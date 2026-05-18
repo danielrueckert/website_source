@@ -16,7 +16,7 @@ publishDate: 2021
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "NPJ Digital Medicine 60(4), 2021."
+publication: "npj Digital Medicine, 4: 60, 2021."
 publication_short: ""
 
 abstract: "Data privacy mechanisms are essential for rapidly scaling medical training databases to capture the heterogeneity of patient data distributions toward robust and generalizable machine learning systems. In the current COVID-19 pandemic, a major focus of artificial intelligence (AI) is interpreting chest CT, which can be readily used in the assessment and management of the disease. This paper demonstrates the feasibility of a federated learning method for detecting COVID-19 related CT abnormalities with external validation on patients from a multinational study. We recruited 132 patients from seven multinational different centers, with three internal hospitals from Hong Kong for training and testing, and four external, independent datasets from Mainland China and Germany, for validating model generalizability. We also conducted case studies on longitudinal scans for automated estimation of lesion burden for hospitalized COVID-19 patients. We explore the federated learning algorithms to develop a privacy-preserving AI model for COVID-19 medical image diagnosis with good generalization capability on unseen multinational datasets. Federated learning could provide an effective mechanism during pandemics to rapidly develop clinically useful AI across institutions and countries overcoming the burden of central aggregation of large amounts of sensitive data."
