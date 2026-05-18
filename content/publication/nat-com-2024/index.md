@@ -3,11 +3,11 @@
 
 title: "Evaluating Normative Representation Learning in Generative AI for Robust Anomaly Detection in Brain Imaging."
 authors: [C. I. Bercea, B. Wiestler, D. Rueckert, J. A. Schnabel,]
-date: 2023-12-13
-doi: "https://doi.org/10.21203/rs.3.rs-3749187/v1"
+date: 2025-01-01
+doi: "https://doi.org/10.1038/s41467-025-56321-y"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024
+publishDate: 2025
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2024
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Nature Communications, in press, 2024."
+publication: "Nature Communications, 16(1), 1624, 2025."
 publication_short: ""
 
 abstract: "In Generative Artificial Intelligence (AI) for medical imaging, normative learning involves training AI models on large datasets of typical images from healthy volunteers, such as MRIs or CT scans. These models acquire the distribution of normal anatomical structures, allowing them to effectively detect and correct anomalies in new, unseen pathological data. This approach allows the detection of unknown pathologies without the need for expert labeling."

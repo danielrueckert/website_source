@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Federated electronic health records for the European Health."
+title: "Federated electronic health records for the European Health Data Space."
 authors: [R. Raab, A. Küderle, A. Zakreuskaya, A. D. Stern, J. Klucken, G. Kaissis, D. Rueckert, S. Boll, R. Eils, H. Wagener, B. M. Eskofier,]
 date: 2023-11-24
 doi: "https://doi.org/10.1016/s2589-7500(23)00156-5"
@@ -16,7 +16,7 @@ publishDate: 2023
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Lancet Digital Health, 5: e840–47, 2023"
+publication: "The Lancet Digital Health, 5(11): e840-e847, 2023."
 publication_short: ""
 
 abstract: "The European Commission's draft for the European Health Data Space (EHDS) aims to empower citizens to access their personal health data and share it with physicians and other health-care providers. It further defines procedures for the secondary use of electronic health data for research and development. Although this planned legislation is undoubtedly a step in the right direction, implementation approaches could potentially result in centralised data silos that pose data privacy and security risks for individuals. To address this concern, we propose federated personal health data spaces, a novel architecture for storing, managing, and sharing personal electronic health records that puts citizens at the centre—both conceptually and technologically. The proposed architecture puts citizens in control by storing personal health data on a combination of personal devices rather than in centralised data silos. We describe how this federated architecture fits within the EHDS and can enable the same features as centralised systems while protecting the privacy of citizens. We further argue that increased privacy and control do not contradict the use of electronic health data for research and development. Instead, data sovereignty and transparency encourage active participation in studies and data sharing. This combination of privacy-by-design and transparent, privacy-preserving data sharing can enable health-care leaders to break the privacy-exploitation barrier, which currently limits the secondary use of health data in many cases."
