@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Daniel Scholz
+last_name: "Scholz"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -21,20 +22,19 @@ organizations:
 bio: My main research interests lie in 3d self-supervised representation learning with brain MRIs showing metastases and other tumors.
 
 interests:
-- self-supervised learning
-- representation learning
-- 3d image segmentation of brain MRIs
-
+- Medical image analysis (mostly brain)
+- Self-supervised representation learning
+- Generative Models
 
 education:
   courses:
   - course: M.Sc. Informatics
-    institution: Technical University of Munich
+    institution: TUM
     year: 2022
-  - course: B.Sc. Applied Computer Science)
+  - course: B.Sc. Applied Computer Science
     institution: DHBW Mannheim
     year: 2019
- 
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -42,8 +42,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:scholz@in.tum.de
-
+  link: mailto:scholz@cit.tum.de
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/daniel-scholz-ds/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/daniel-scholz
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,7 +64,4 @@ user_groups:
 - "Researchers"
 ---
 
-Daniel Scholz is a Ph.D. candidate co-supervised by Prof. Rückert (AI for Medicine) and PD Dr. Benedikt Wiestler (Neuroradiology). He received his bachelor's degree in Applied Computer Science from DHBW Mannheim and his master's degree in Informatics from TUM. Previous research projects dealt with 3d point cloud segmentation and image generation integrated with representation learning. Currently, he is researching 3d self-supervised representation learning with brain MRIs showing metastases and other tumors.
-
-
-
+Daniel Scholz is a Ph.D. candidate working with Prof. Rückert (AI in Medicine and Healthcare) and Prof. Benedikt Wiestler (Neuroradiology, AI for Image Guided Diagnosis and Therapy). He got his Bachelor's in Applied Computer Science from DHBW Mannheim and his Master's in Informatics from TUM. His research projects are all about medical image analysis, especially of the brain. He's particularly interested in semantic segmentation, imbalanced classification, generative modelling, and representation learning. Topics for MSc Theses can always be discussed on inquiry.

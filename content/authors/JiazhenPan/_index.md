@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Jiazhen Pan
+last_name: "Pan"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -23,8 +24,7 @@ bio: My main research interests lie in medical imaging computing, semantic segme
 interests:
 - Medical Imaging Computing
 - Semantic Segmentation
-- Medical Image Reconstruction 
-
+- Medical Image Reconstruction
 
 education:
   courses:
@@ -34,7 +34,7 @@ education:
   - course: Mechanical Engineering (Diploma)
     institution: University of Applied Science Dresden
     year: 2017
- 
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -46,13 +46,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jiazhen-pan-72230b185/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=3ajAndQAAAAJ&hl=de&oi=ao
-- icon: globe
-  icon_pack: fas
+- icon: github
+  icon_pack: fab
   link: https://jzpeterpan.github.io/
-
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,10 +61,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Researchers"
+- "Senior Researchers"
 ---
 
-I am a Ph.D. student at the Institutes of Radiology and Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). Before my Ph.D., I received my Master’s degree in Electrical Engineering and Information Technology at the University of Stuttgart with a focus on computer vision and pattern recognition. During my master's study, I wrote a research thesis with the collaboration of the Eberhard Karls University Tübingen, which focused on the whole body organ- and tissue segmentation problem. In my master thesis at King’s College London, I built a neural network that can solve the non-rigid registration problem directly from k-space for MR Imaging. Currently, I am researching applications of MRI Reconstruction, image denoising and flow estimation.
-
-
-
+I am a Ph.D. student at the Institutes of Radiology and Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). Before my Ph.D., I received my Master's degree in Electrical Engineering and Information Technology at the University of Stuttgart with a focus on computer vision and pattern recognition. During my master's study, I wrote a research thesis with the collaboration of the Eberhard Karls University Tübingen, which focused on the whole body organ- and tissue segmentation problem. In my master thesis at King's College London, I built a neural network that can solve the non-rigid registration problem directly from k-space for MR Imaging. Currently, I am researching applications of MRI Reconstruction, image denoising and flow estimation.

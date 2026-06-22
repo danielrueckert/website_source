@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Özgün Turgut 
+title: "Özgün Turgut"
+last_name: "Turgut"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -28,18 +29,18 @@ interests:
 education:
   courses:
   - course: Electrical Engineering and Information Technology (M.Sc.)
-    institution: Technical University of Munich
+    institution: TUM
     year: 2021
-  - course: Electrical Engineering and Information Technology (M.Sc.)
-    institution: University of Technology Sydney, New South Wales, Australia
+  - course: "(M.Sc.)"
+    institution: University of Technology Sydney
     year: 2019
-  - course: Electrical Engineering and Information Technology (B.Sc.)
-    institution: Technical University of Munich
+  - course: "(B.Sc.)"
+    institution: TUM
     year: 2019
   - course: Management & Technology (B.Sc.)
-    institution: Technical University of Munich
+    institution: TUM
     year: 2016
- 
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

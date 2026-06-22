@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Ayhan Can Erdur
+last_name: "Erdur"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -21,20 +22,20 @@ organizations:
 bio: My main research interests lie in 3D image processing on MRI or CT scans
 
 interests:
-- medical imaging
-- 3D computer vision
-- disease outcome prediction
-
+- Semantic Segmentation
+- Medical Image Analysis (Brain MRI)
+- Survival Modeling
+- Segmentation Foundation Models
 
 education:
   courses:
   - course: M.Sc. Robotics, Cognition & Intelligence
-    institution: Technical University of Munich
+    institution: TUM
     year: 2022
   - course: B.Sc. Electrical Engineering and Information Technology
-    institution: Technical University of Munich
+    institution: TUM
     year: 2020
- 
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -43,7 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:can.erdur@tum.de
-
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/acanerdur
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,4 +62,4 @@ user_groups:
 - "Researchers"
 ---
 
-Ayhan Can Erdur is a PhD student at the Institutes of Radio-oncology and Artificial Intelligence and Informatics in Medicine at Technical University of Munich (TUM). In 2022, he received his Master’s degree from the Informatics Department of Technical University of Munich with a main focus on deep learning. His research is oriented on 3D image processing on MRI or CT scans in order to segment cancerous tissue and predict the prospective course of the disease in brain and/or pancreas, aiming for a better treatment planning.
+Ayhan Can Erdur is a Doctoral researcher jointly at the AI in Medicine Lab and Department of Radiation Oncology at Technical University of Munich (TUM). In 2022, he received his Master's degree from TUM with a main focus on deep learning and computer vision. His research is oriented on 3D image processing on MRI or CT scans in order to segment cancerous tissue and predict the prospective course of diseases mostly in brain, aiming for a better treatment planning.

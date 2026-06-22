@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Julian McGinnis
+last_name: "McGinnis"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -27,14 +28,13 @@ interests:
 
 education:
   courses:
-  - course: Electrical Engineering and Information Technology (M. Sc.)
-    institution: Technical University of Munich
+  - course: Electrical Engineering and Information Technology (M.Sc.)
+    institution: TUM
     year: 2022
-  - course: Electrical Engineering and Information Technology (B. Sc.)
+  - course: "(B.Sc.)"
     institution: Baden-Wuerttemberg Cooperative State University Ravensburg (DHBW)
     year: 2016
-    
- 
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -43,18 +43,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:julian.mcginnis@tum.de
-- icon: github
-  icon_pack: fab
-  link: https://github.com/jqmcginnis
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=hy6MSk4AAAAJ&hl=en&oi=ao
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/julian-mcginnis/
-- icon: twitter
+- icon: github
   icon_pack: fab
-  link: https://twitter.com/jqmcginnis
+  link: https://github.com/jqmcginnis
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,5 +64,4 @@ user_groups:
 - "Researchers"
 ---
 
-Julian McGinnis is a PhD student at the Department of Neurology and the Institute of Artificial Intelligence in Medicine at the Technical University of Munich (TUM).
-His research is centered on the intersection of medicine, neuroscience, and machine learning, specifically focusing on Multiple Sclerosis (MS) and the integrated analysis of the brain and spinal cord. His interests revolve around implicit neural representations and compact latent representations for various downstream tasks. These tasks include generative modeling, image reconstruction, and lesion segmentation. Topics for BSc and MSc theses, semester projects, or other student projects can always be discussed upon inquiry.
+Julian McGinnis is a Doctoral researcher at the Department of Neurology and the Institute of Artificial Intelligence in Medicine at the Technical University of Munich (TUM). His research is centered on the intersection of medicine, neuroscience, and machine learning, specifically focusing on Multiple Sclerosis (MS) and the integrated analysis of the brain and spinal cord. His interests revolve around implicit neural representations and compact latent representations for various downstream tasks. These tasks include generative modeling, image reconstruction, and lesion segmentation. Topics for BSc and MSc theses, semester projects, or other student projects can always be discussed upon inquiry.

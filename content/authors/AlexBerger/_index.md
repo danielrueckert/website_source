@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Alexander Berger
+last_name: "Berger"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -25,17 +26,15 @@ interests:
 - Weakly- and Self-supervised Transfer Learning
 - Domain Adaptation
 
-
 education:
   courses:
-  - course: Informatics (M. Sc.)
-    institution: Technical University of Munich
+  - course: Informatics (M.Sc.)
+    institution: TUM
     year: 2023
-  - course: Information Systems (B. Sc.)
-    institution: Technical University of Munich
+  - course: Information Systems (B.Sc.)
+    institution: TUM
     year: 2020
 
- 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -62,6 +61,4 @@ user_groups:
 - "Researchers"
 ---
 
-Alexander Berger is a PhD student at the Chair for Artificial Intelligence in Medicine at the Technical University of Munich (TUM). His main research focus is the development of deep learning methods for topology-preserving image segmentation and extracting and analysing graph-structured information from medical images. Most of his applications aim at improving diagnosis and treatment of diseases. Furthermore, Alexander is interested in self- and weakly-supervised transfer learning and domain adaptation. He received his M.Sc. at TUM under Prof. Daniel Rückert.
-
-Topics for BSc and MSc Thesis, Semester Projects, IDPs, Guided Research or any other student project can always be discussed on inquiry.
+Alexander Berger is a Doctoral researcher at the Chair for Artificial Intelligence in Medicine at the Technical University of Munich (TUM). His main research focus is the development of deep learning methods for topology-preserving image segmentation and extracting and analysing graph-structured information from medical images. Most of his applications aim at improving diagnosis and treatment of diseases. Furthermore, Alexander is interested in self- and weakly-supervised transfer learning and domain adaptation. He received his M.Sc. at TUM under Prof. Daniel Rückert. Topics for BSc and MSc Thesis, Semester Projects, IDPs, Guided Research or any other student project can always be discussed on inquiry.

@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Robert Graf
+last_name: "Graf"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -19,9 +20,8 @@ organizations:
 - name: Institute of AI in Healthcare and Medicine, Technical University of Munich
   url: "https://www.translatum.tum.de/en/translatum/research-groups/daniel-rueckert-ai-in-healthcare-and-medicine/"
 
-
 # Short bio (displayed in user profile at end of posts)
-bio:  DL
+bio: DL
 
 interests:
 - Computer Vision for Spine Processing
@@ -29,16 +29,15 @@ interests:
 - Denoising Diffusion
 - Large Epidemiological Studies
 
-
 education:
   courses:
   - course: M.Sc. Informatics
-    institution: Technical University of Munich
+    institution: TUM
     year: 2022
   - course: BSc. Informatics
-    institution: Technical University of Munich
+    institution: TUM
     year: 2019
-  
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -50,9 +49,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/robert-graf/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.de/citations?user=PE_SKpkAAAAJ&hl=de
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,7 +56,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: robert.graf@tum.de"
+email: "robert.graf@tum.de\""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -68,4 +64,4 @@ user_groups:
 - "Researchers"
 ---
 
-I'm a PhD student affiliated with the Institute of Artificial Intelligence in Medicine at the Technical University of Munich (TUM) and the Deep-Spine group (https://deep-spine.de/). I work on Spine image translation, superresolution, registration, and analysis.
+I'm a Doctoral researcher affiliated with the Institute of Artificial Intelligence in Medicine at the Technical University of Munich (TUM) and the Deep-Spine group (deep-spine.de). I work on Spine image translation, superresolution, registration, and analysis.

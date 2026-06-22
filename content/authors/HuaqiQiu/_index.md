@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Huaqi (Harvey) Qiu
+last_name: "Qiu"
 
 # Username (this should match the folder name)
 authors:
@@ -26,7 +27,6 @@ interests:
 - Clinical-driven evaluation
 - Medical image registration
 
-
 education:
   courses:
   - course: PhD in Computing
@@ -36,7 +36,6 @@ education:
   - course: BEng in Electronics and Communication Engineering
     institution: University of Liverpool
 
- 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -48,17 +47,14 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/huaqi-qiu
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=tTAdtzYAAAAJ&hl=en&oi=ao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
 
-# # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: "ivan.ezhov@tum.de"
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -66,4 +62,4 @@ user_groups:
 - "Senior Researchers"
 ---
 
-Huaqi (Harvey) Qiu, PhD is a researcher at the Chair of Artificial Intelligence in Healthcare and Medicine in Technical University of Munich. His research explores the use of modern multi-modal Machine Learning algorithms for preventive sports medicine and sports cardiology using real clinical data. Prior to joining the lab, Harvey received his PhD in Computing Research from Imperial College London where he focused on Deformable Image Registration using Deep Learning, with application in cardiac imaging. In his current position, he is also continuing work on medical image registration, with a new focus on building accessible registration tools for modern medical imaging research using deep learning frameworks. 
+Huaqi (Harvey) Qiu, PhD is a researcher at the Chair of Artificial Intelligence in Healthcare and Medicine in Technical University of Munich. His research explores the use of modern multi-modal Machine Learning algorithms for preventive sports medicine and sports cardiology using real clinical data. Prior to joining the lab, Harvey received his PhD in Computing Research from Imperial College London where he focused on Deformable Image Registration using Deep Learning, with application in cardiac imaging. In his current position, he is also continuing work on medical image registration, with a new focus on building accessible registration tools for modern medical imaging research using deep learning frameworks.

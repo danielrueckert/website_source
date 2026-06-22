@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Alexander Selivanov
+last_name: "Selivanov"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -18,13 +19,12 @@ organizations:
   url: "https://www.translatum.tum.de/en/translatum/research-groups/daniel-rueckert-ai-in-healthcare-and-medicine/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  DL
+bio: DL
 
 interests:
 - AI in Medical Imaging
 - Multimodal Learning
 - Self-supervised Learning
-
 
 education:
   courses:
@@ -34,7 +34,7 @@ education:
   - course: BSc. Applied Mathematics and Physics
     institution: Moscow Institute of Physics and Technology (MIPT)
     year: 2019
-  
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -43,15 +43,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:alexander.selivanov@tum.de
-- icon: github
-  icon_pack: fab
-  link: https://github.com/Alsalivan
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/alsalivan/
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/citations?user=rG8PbzsAAAAJ&hl=de
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Alsalivan
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

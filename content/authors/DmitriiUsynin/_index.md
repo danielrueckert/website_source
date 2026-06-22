@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Dmitrii Usynin
+title: Dima Usynin
+last_name: "Usynin"
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +11,9 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
-organizations:
-- name: Technical University of Munich
-  url: "https://www.translatum.tum.de/en/translatum/research-groups/daniel-rueckert-ai-in-healthcare-and-medicine/"
 organizations:
 - name: Imperial College London
   url: "https://biomedia.doc.ic.ac.uk/person/dmitrii-usynin/"
@@ -24,8 +22,10 @@ organizations:
 bio: Attacks on machine learning, privacy-preserving machine learning.
 
 interests:
-- Artifical Intelligence in Medicine
 - Secure and Private Artificial Intelligence
+- Differential Privacy
+- Trustworthy Federated Learning
+- Memorisation in Large Language Models
 
 education:
   courses:
@@ -41,18 +41,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:dmitrii.usynin16@imperial.ac.uk
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/a1302z
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.de/citations?user=Ir90mU4AAAAJ&hl=en
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://de.linkedin.com/in/a1302z
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/a1302z
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/dusynin/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,6 +59,4 @@ user_groups:
 - "Researchers"
 ---
 
-I am a PhD student in a Joint Academy of Doctoral Studies (JADS) at Imperial College London and TU Munich. My research is adversarial influence in the context of collaborative machine learning, specializing in medical imaging. I am open to collaboration on the topics of: Privacy Attacks on AI Systems, Adversarial Robustness of ML Models, Federated Learning, Differential Privacy and Collaborative Learning in Medical Imaging.
-
-I am also a privacy researcher at OpenMined, where I work on Federated Learning and Differential Privacy in Healthcare. My most recent works “Private Deep Learning for Hospitals using Federated Learning and Differential Privacy” and “Privacy-Preserving Medical Image Analysis” were published at PriCon 2020 and MedNeurIPS 2020 respectively.
+I am a PhD student at the Joint Academy of Doctoral Studies (JADS) launched between Imperial College London and Technical University of Munich. My research interests lie on the intersection of collaborative machine learning (CML) and trustworthy artificial intelligence (TAI). In particular, I am interested in topics such as privacy-preserving machine learning (PPML), attacks on CML, adversarial robustness, federated learning and memorisation in ML. Additionally, I am interested in applications of my research in the domain of collaborative biomedical imaging. Some of my recent works include gradient-based model inversion attacks on collaboratively trained computer vision models (ACM TOPS 2023), low-cost empirical defences against privacy adversaries (PoPETS 2022), a framework for trustworthy collaborative medical image analysis (Nature Machine Intelligence 2021) and an overview of the current state of PPML and attacks on CML (Nature Machine Intelligence 2021). Outside of my PhD, I am an Investment Partner at CreatorFund, leading early-stage deep tech investment in Europe. Previously I was also a privacy researcher at OpenMined, working on federated learning and differential privacy in healthcare. And outside of all that I am a rower and a WSET-certified expert in beer.

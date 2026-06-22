@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Wenqi Huang
+last_name: "Huang"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -22,16 +23,17 @@ bio: My research interests include image reconstruction and multi-task deep lear
 
 interests:
 - Image Reconstruction
-- Multi-Task Deep Learning
+- MRI
+- Inverse Problems
+- Implicit Neural Representations
 
 education:
-  
   courses:
   - course: Pattern Recognition and Intelligent Systems (M.Sc.)
-    institution: Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, China
+    institution: SIAT, Chinese Academy of Sciences
     year: 2021
   - course: Information Engineering (B.Eng)
-    institution: Soochow University, China
+    institution: Soochow University
     year: 2018
 
 # Social/Academic Networking
@@ -42,12 +44,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:wenqi.huang@tum.de
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=de&user=to2zNj4AAAAJ
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/WenqiHuang2020
+  link: https://www.linkedin.com/in/wenqi-huang-tum/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/wenqihuang
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,4 +65,4 @@ user_groups:
 - "Researchers"
 ---
 
-Wenqi Huang is a Ph.D. student at the Institutes of Radiology and Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). He received his Master’s degree in Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences (CAS), Shenzhen, China, under the supervision of Prof. Dong Liang. His previous research focused on combining low-rankness and sparsity with deep learning to improve the reconstruction quality of dynamic magnetic resonance imaging. His research interests include deep learning methods in magnetic resonance imaging, image reconstruction and medical image processing. 
+Wenqi Huang is a Ph.D. student at the Chair for Artificial Intelligence in Medicine at the Technical University of Munich (TUM). He received his Master's degree in Shenzhen Institutes of Advanced Technology (SIAT) of the Chinese Academy of Sciences (CAS), Shenzhen, China, under the supervision of Prof. Dong Liang. His previous research focused on combining low-rankness and sparsity with deep learning to improve the reconstruction quality of dynamic magnetic resonance imaging. His current research interests include deep learning methods in magnetic resonance imaging, image reconstruction and implicit neural representations for advanced MRI acquisitions.

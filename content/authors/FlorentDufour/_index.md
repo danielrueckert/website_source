@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Florent Dufour
+last_name: "Dufour"
 
 # Username (this should match the folder name)
 authors:
@@ -10,54 +11,49 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
 - name: Institute of AI in Healthcare and Medicine, Technical University of Munich
   url: "https://www.translatum.tum.de/en/translatum/research-groups/daniel-rueckert-ai-in-healthcare-and-medicine/"
 - name: Leibniz Supercomputing Centre
-  url: "https://lrz.de" 
+  url: "https://lrz.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  DL
+bio: DL
 
 interests:
-- AI in Medical Imaging
 - Trustworthy AI
 - Privacy Enhancing Technologies
-- Confidential Computing
+- Differential Privacy
+- Trusted Execution Environments
 - Sovereign Cloud Computing
+- High-Performance Computing
 
 education:
   courses:
   - course: Engineering degree, Biotechnology and Data Science
-    institution: ESBS (Strasbourg), University of Freiburg, University of Basel
+    institution: cross-border program (ESBS Strasbourg, University of Freiburg, University of Basel)
     year: 2018
-  - course: M.Sc., Bioinformatics
+  - course: M.Sc. Bioinformatics
     institution: University of Strasbourg
     year: 2018
-  
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: globe
-  icon_pack: fa
-  link: https://dufour.xyz
 - icon: envelope
   icon_pack: fas
   link: mailto:florent.dufour@tum.de
-- icon: github
-  icon_pack: fab
-  link: https://github.com/flrntdfr
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/flrntdfr
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=7cJM1YsAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/flrntdfr
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: “florent.dufour@tum.de”
+email: "“florent.dufour@tum.de”"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -73,4 +69,4 @@ user_groups:
 - "Researchers"
 ---
 
-I am a Ph.D. student at the Institute of AI in Healthcare and Medicine at the Technical University of Munich (TUM) under the supervision of Prof. Dr. Daniel Rückert and PD Dr. Georgios Kaissis. I completed my undergraduate studies at the intersection of France, Germany, and Switzerland, where I studied biotechnology and data science for healthcare. Before engaging in my Ph.D., I joined the Big Data and AI team at the Leibniz Supercomputing Centre to build a pilot Trusted Research Environment (TRE) for cardiovascular disease in the scope of the [DigiMed Bayern Project](https://digimed-bayern.de). Currently, I am working on privacy-enhancing technologies like differential privacy and confidential computing. I am exploring ways to use them to build trustworthy, secure, and robust machine learning systems.
+Florent Dufour is a Ph.D. student at the Chair for Artificial Intelligence in Medicine at the Technical University of Munich (TUM) and a research associate in Big Data and AI at the Leibniz Supercomputing Centre (LRZ). At LRZ, his primary role focuses on developing a pilot Trusted Research Environment for hosting and processing multi-omic cardiovascular data, with a strong emphasis on ensuring data security, regulatory compliance, and individual privacy protection. He collaborates with clinical researchers, bioinformaticians, and computer scientists to ensure the practical and ethical application of AI technologies in the cloud. Florent's research interests lie at the intersection of artificial intelligence, privacy, and security. His work as a Ph.D student explores the use of differential privacy and trusted execution environments to build trustworthy, secure, and robust AI systems for health research in the cloud. By overcoming challenges in balancing data utility and privacy, he seeks to advance medical research in the cloud in ways that prioritize patient trust and safety.

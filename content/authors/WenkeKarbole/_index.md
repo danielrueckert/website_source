@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Wenke Karbole
+last_name: "Karbole"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -21,24 +22,22 @@ organizations:
 bio: My research interests include the application of machine learning approaches for ophthalmologic imaging with a special focus on generative modeling and the representation of temporal information.
 
 interests:
-- Generative AI 
+- Generative AI
 - Temporal Representation Modeling
 - Ophthalmologic Imaging
 
-
 education:
   courses:
-  - course: Artificial Intelligence (M. Sc.)
-    institution: Friedrich-Alexander University Erlangen-Nuremberg
+  - course: Artificial Intelligence (M.Sc.)
+    institution: FAU Erlangen-Nuremberg
     year: 2023
-  - course: Medical Engineering (M. Sc.)
-    institution: Friedrich-Alexander University Erlangen-Nuremberg
+  - course: Medical Engineering (M.Sc.)
+    institution: FAU Erlangen-Nuremberg
     year: 2023
-  - course: Biomedical Engineering (B. Sc.)
-    institution: Technical University of Ilmenau
+  - course: Biomedical Engineering (B.Sc.)
+    institution: TU Ilmenau
     year: 2020
 
- 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -65,4 +64,4 @@ user_groups:
 - "Researchers"
 ---
 
-Wenke Karbole is a PhD student at the Chair for Artificial Intelligence in Medicine at the Technical University of Munich (TUM). Her main research interest is the application of machine learning approaches for ophthalmologic imaging with a special focus on generative modeling and the representation of temporal information.  Most of her applications are aimed at gaining a better understanding of age-related macular degeneration (AMD) - the leading cause of blindness in the elderly. She received her Bachelor's Degree in Medical Engineering from the TU Ilmenau and her Master's in Artificial Intelligence and Medical Engineering from the FAU Erlangen-Nuremberg, with her Master's thesis conducted in cooperation with the MIT on deep learning-based AMD assessment.
+Wenke Karbole is a doctoral researcher at the Chair for Artificial Intelligence in Medicine at the Technical University of Munich (TUM). Her main research interest is the application of machine learning approaches for ophthalmologic imaging with a special focus on generative modeling and the representation of temporal information. Most of her applications aim to understand better age-related macular degeneration (AMD) - the leading cause of blindness in the elderly. She received her Bachelor's Degree in Medical Engineering from the TU Ilmenau and her Master's in Artificial Intelligence and Medical Engineering from the FAU Erlangen-Nuremberg, with her Master's thesis conducted in cooperation with the MIT on deep learning-based AMD assessment.

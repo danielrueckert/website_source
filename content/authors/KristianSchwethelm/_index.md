@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Kristian Schwethelm
+last_name: "Schwethelm"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -18,13 +19,12 @@ organizations:
   url: "https://www.translatum.tum.de/en/translatum/research-groups/daniel-rueckert-ai-in-healthcare-and-medicine/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  DL
+bio: DL
 
 interests:
-- AI in Medical Imaging
+- AI in Medicine
 - Privacy-preserving Machine Learning
-- Differential Geometry
-
+- Large Language Models
 
 education:
   courses:
@@ -32,9 +32,9 @@ education:
     institution: University of Hildesheim
     year: 2023
   - course: BSc. Electrical Engineering and Information Technology
-    institution: Ostfalia - University of Applied Sciences
+    institution: Ostfalia University of Applied Sciences
     year: 2021
-  
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -43,15 +43,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:k.schwethelm@tum.de
-- icon: github
-  icon_pack: fab
-  link: https://github.com/kschwethelm
 - icon: linkedin
   icon_pack: fab
   link: https://de.linkedin.com/in/kristian-schwethelm
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=Q5X7Kw8AAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/kschwethelm
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,7 +56,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: “k.schwethelm@tum.de”
+email: "“k.schwethelm@tum.de”"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -67,4 +64,4 @@ user_groups:
 - "Researchers"
 ---
 
-I’m a PhD student affiliated with the Institute of Artificial Intelligence in Medicine at the Technical University of Munich (TUM). Before starting my PhD, I received an MSc. from the University of Hildesheim and a BSc. from Ostfalia University in cooperation with Robert Bosch GmbH. Throughout my academic journey, I specialized in machine learning, focusing on computer vision and geometric deep learning. Currently, my research centers on privacy-preserving machine learning, with an emphasis on differential privacy and its applications in medical imaging.
+Kristian Schwethelm is a doctoral researcher at the Chair for AI in Healthcare and Medicine at the Technical University of Munich (TUM) and TUM University Hospital. He received an MSc. from the University of Hildesheim and a BSc. from Ostfalia University in cooperation with Robert Bosch GmbH. Previously, he worked on machine learning projects, focusing on computer vision and geometric deep learning. Kristian's current research explores the intersection of privacy-preserving machine learning, differential privacy, and large language models, with a focus on advancing applications in medicine and healthcare.

@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Paul Hager
+last_name: "Hager"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Research scientist
 
 # Organizations/Affiliations
 organizations:
@@ -21,20 +22,20 @@ organizations:
 bio: My main research interest is how to effectively integrate biological, genetic and lifestyle information into medical imaging deep learning models.
 
 interests:
-- Medical Imaging Computing
+- Representation Learning
+- LLM Evaluations
 - Multi-modal Deep Learning
-- Genetics
-
+- Tabular Deep Learning
 
 education:
   courses:
   - course: Bioinformatics (M.Sc.)
-    institution: Technical University of Munich / Ludwig Maximilians University
+    institution: TUM / LMU
     year: 2021
   - course: Bioinformatics (B.Sc.)
-    institution: Technical University of Munich / Ludwig Maximilians University
+    institution: TUM / LMU
     year: 2018
- 
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -46,7 +47,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/paul-hager-b0b73280/
-
+- icon: github
+  icon_pack: fab
+  link: https://github.com/paulhager
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,12 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Researchers"
+- "Alumni"
 ---
 
-I am a Ph.D. student at the Institutes of Radiology and Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). I completed both my bachelors and masters jointly at the TUM and LMU in Munich in the area of Bioinformatics. My previous projects and publications concern Multimodal Self-Supervised models with tabular and imaging data, GANs and volumetric brain data for Alzheimer's research and Next Generation Sequencing pipelines. Currently, I am developing multi-modal deep learning models that utilize the full breadth of information available in the medical domain, including patient lifestyle, genetic profile, and imaging data.
-
-
-
-
-
+My research focuses on how to build and benchmark effective representations in the medical domain. My early research focused on how best to combine imaging and tabular data, before switching to LLMs. Currently I am interested in creating a tabular foundation model using biobank scale health data.
