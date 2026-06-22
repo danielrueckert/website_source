@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Florian A. Hölzl
+title: "Florian A. Hölzl"
+last_name: "Hölzl"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -21,20 +22,19 @@ organizations:
 bio: My research interests include privacy-preserving deep learning in general and in medical imaging specifically.
 
 interests:
-- Artifical Intelligence in Medicine
+- Artificial Intelligence in Medicine
 - Privacy-preserving Deep Learning
-
+- Representation Learning
 
 education:
   courses:
-  - course: Electrical and Computer Engineering (M. Sc.)
-    institution: Technical University of Munich
+  - course: Electrical and Computer Engineering (M.Sc.)
+    institution: TUM
     year: 2022
-  - course: Electrical and Computer Engineering (B. Sc.)
-    institution: Technical University of Munich
+  - course: "(B.Sc.)"
+    institution: TUM
     year: 2018
 
- 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -43,18 +43,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:florian.hoelzl@tum.de
-- icon: github
-  icon_pack: fab
-  link: https://github.com/hlzl
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/florianhoelzl
-- icon: google-scholar
-  icon_pack: ai
-  link: https://www.semanticscholar.org/author/2155198740
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/hoelzlflorian/details/education/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/hlzl
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +64,4 @@ user_groups:
 - "Researchers"
 ---
 
-Florian Hölzl is a PhD student at the Chair for Artificial Intelligence in Medicine at the Technical University of Munich (TUM). His main research focus is located in the field of privacy preserving machine learning. Furthermore, he investigates the usage of deep learning methods for diagnostics of prostate cancer, aiming at developing non-invasive and more accurate diagnosis approaches. He received his Master of Science in 2022 from TUM.
-
-Topics for BSc and MSc Thesis, Semester Projects, IDPs, Guided Research or any other student project can always be discussed on inquiry.
+Florian Hölzl is a Doctoral researcher at the Chair for Artificial Intelligence in Medicine at the Technical University of Munich (TUM). His main research focus is on understanding how individual samples influence optimization and the corresponding representations in neural networks. He received his Master of Science in 2022 from TUM. Topics for MSc Theses can always be discussed on inquiry.

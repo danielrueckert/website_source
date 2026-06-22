@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Alina Dima
+last_name: "Dima"
 
 # Username (this should match the folder name)
 authors:
@@ -10,33 +11,33 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
 - name: Institute of AI in Healthcare and Medicine, Technical University of Munich
   url: "https://www.translatum.tum.de/en/translatum/research-groups/daniel-rueckert-ai-in-healthcare-and-medicine/"
 - name: Institute of Diagnostic and Interventional Radiology, Klinikum rechts der Isar
-  url: "https://www.rad.mri.tum.de/ag/braren" 
+  url: "https://www.rad.mri.tum.de/ag/braren"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in the medical applications of deep learning.
 
 interests:
-- Medical Imaging
-- Semantic Segmentation
-- Pancreatic Ductal Adenocarcinoma
-
+- 3D Vessel Segmentation
+- Sparse Annotations
+- Parametric Models
+- Differentiable Voxelization
 
 education:
   courses:
-  - course: M.Sc. in Computer Science 
+  - course: M.Sc. in Computer Science
     institution: Saarland University
     year: 2020
   - course: B.Sc. in Computer Science
     institution: Jacobs University Bremen
     year: 2015
- 
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -45,6 +46,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:alina.dima@tum.de
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/alina--dima/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/alinafdima
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,4 +67,4 @@ user_groups:
 - "Researchers"
 ---
 
-I am a Ph.D. student at the Institute for Artificial Intelligence and Informatics in Medicine and the Institute of Diagnostic and Interventional Radiology at the Technical University of Munich, Germany. Originally from Romania, I completed my computer science education with a focus on machine learning and computer vision in Germany. During my master thesis at the Institute of Computer Graphics and Vision, part of the Technical University of Graz, I worked on hippocampus segmentation. I am currently developing learning-based methods for Pancreatic Ductal Adenocarcinoma, with the aim of improving patient survival.
+Alina Dima is a Doctoral researcher at the Chair of Artificial Intelligence in Healthcare and Medicine. Her research explores the use of geometric and spatial constraints for 3D vessel segmentation, for the purpose of reducing annotation cost and learning parametric models.

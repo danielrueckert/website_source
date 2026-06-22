@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Yundi Zhang
+last_name: "Zhang"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -26,13 +27,12 @@ interests:
 - MRI
 
 education:
-  
   courses:
   - course: M.Sc. in Electrical Engineering and Information Technology
-    institution: Technical University of Munich, Germany
+    institution: TUM
     year: 2022
   - course: B.Sc. in Measuring and Control Technology and Instruments
-    institution: Tianjin University, China
+    institution: Tianjin University
     year: 2018
 
 # Social/Academic Networking
@@ -43,6 +43,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:yundi.zhang@tum.de
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yundi-zhang-27a3a41b9/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Yundi-Zhang
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,4 +64,4 @@ user_groups:
 - "Researchers"
 ---
 
-Yundi Zhang is a PhD student at the Institute of Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). She received her Master's degree from TUM in 2022, under the supervision of Prof. Reinhard Heckel of the Machine Learning and Information Processing group. Her previous research has focused on developing untrained coordinate-based Multi-Layer Perceptrons (MLPs) as deep image priors in image-related tasks such as accelerated MRI, image representation, and denoising. She is currently working on optimizing the data process path from source data to analysis using deep learning methods.
+Yundi Zhang is a Doctoral researcher at the Institute of Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). She received her Master's degree from TUM in 2022, under the supervision of Prof. Reinhard Heckel of the Machine Learning and Information Processing group. Her previous research has focused on developing untrained coordinate-based Multi-Layer Perceptrons (MLPs) as deep image priors in image-related tasks such as accelerated MRI, image representation, and denoising. She currently works on optimizing the MR data processing pipeline from source data to analysis through deep learning methods, including reconstruction, segmentation, representation learning, and foundation models to advance medical imaging capabilities.

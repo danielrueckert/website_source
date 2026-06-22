@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Veronika Zimmer
+last_name: "Zimmer"
 
 # Username (this should match the folder name)
 authors:
@@ -25,19 +26,18 @@ interests:
 - Ultrasound Image Analysis
 - Fetal Image Analysis
 
-
 education:
   courses:
-  - course: Medical Image Computing (Ph. D.)
-    institution: Universitat Pompeu Fabra, Barcelona, Spain
+  - course: Medical Image Computing (Ph.D.)
+    institution: Universitat Pompeu Fabra, Barcelona
     year: 2017
-  - course: Computational Life Science (M. Sc.)
-    institution: University of Luebeck, Germany
+  - course: Computational Life Science (M.Sc.)
+    institution: University of Luebeck
     year: 2011
-  - course: Computational Life Science (B. Sc.)
-    institution: University of Luebeck, Germany
+  - course: Computational Life Science (B.Sc.)
+    institution: University of Luebeck
     year: 2008
-  
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -46,12 +46,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:veronika.zimmer@tum.de
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/a1302z
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?hl=en&user=gwA7hW4AAAAJ
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/veronika-a-zimmer/
@@ -70,4 +64,4 @@ user_groups:
 - "Senior Researchers"
 ---
 
-Veronika A. Zimmer is a senior research scientist at the Institute of Computer Sciences at TUM and a visiting researcher at the School of Biomedical Engineering & Imaging Sciences at King’s College London. She received her PhD in Information and Communication Technologies from the Universitat Pompeu Fabra, Barcelona, Spain, in 2017. Her research focuses on image analysis and machine learning with a particular interest in robust and generalizable methods for multimodal registration and segmentation in medical imaging.
+Veronika A. Zimmer is a senior research scientist at the Institute of Computer Sciences at TUM and a visiting researcher at the School of Biomedical Engineering & Imaging Sciences at King's College London. She received her PhD in Information and Communication Technologies from the Universitat Pompeu Fabra, Barcelona, Spain, in 2017. Her research focuses on image analysis and machine learning with a particular interest in robust and generalizable methods for multimodal registration and segmentation in medical imaging.

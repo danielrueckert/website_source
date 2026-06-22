@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Sophie Starck
+last_name: "Starck"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -21,17 +22,19 @@ organizations:
 bio: My research interests include machine learning in medical imaging
 
 interests:
-- Machine Learning
-- Geometric Deep Learning
 - Medical Image Computing
+- Population modelling
+- Generative AI
 
 education:
-  
   courses:
   - course: MSc in Computer Science and Engineering
-    institution: EPITA, Paris, France
+    institution: EPITA, Paris
     year: 2021
-  
+  - course: BSc in Informatics
+    institution: "Université Paris-Est Créteil (UPEC)"
+    year: 2019
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -40,6 +43,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:sophie.starck@tum.de
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/starcksophie/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/starcksophie
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,4 +64,4 @@ user_groups:
 - "Researchers"
 ---
 
-Sophie Starck is an intern at the Institute for Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). She received her Bachelor’s degree in Computer Science and Engineering from EPITA (School of Engineering and Computer Science) and will receive her Master’s degree in image processing and computer graphics from EPITA in 2021. She is very enthusiastic about machine learning in the field of medical imaging. Her research interests are focused on the applications of geometric deep learning for medical diagnosis.
+Sophie Starck is a Ph.D. at the Institute for Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). She received her Bachelor's degree in Computer Science and Engineering, followed by a Master's degree in image processing and computer graphics from EPITA in 2021. She is very enthusiastic about machine learning in the field of medical imaging. Her research interests are focused on medical atlases, population analysis, generative AI and geometric deep learning for medical diagnosis.

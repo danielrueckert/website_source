@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Leonhard Feiner
+last_name: "Feiner"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -20,22 +21,20 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests consists of deep learning for medical imaging with focus on pulmonary diseases.
 
-
 interests:
 - Machine Learning and Deep Learning
 - Medical Image Computing
 - Data Science
 
-
 education:
   courses:
-  - course: M. Sc. Robotics, Cognition, Intelligence
-    institution: Technical University of Munich
+  - course: M.Sc. Robotics, Cognition, Intelligence
+    institution: TUM
     year: 2020
-  - course: B. Eng. Electrical Engineering and Information Technology
+  - course: B.Eng. Electrical Engineering and Information Technology
     institution: Munich University of Applied Sciences
     year: 2017
- 
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -47,15 +46,14 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/leonhard-feiner
-- icon: xing-square
-  icon_pack: fab
-  link: https://www.xing.com/profile/Leonhard_Feiner
-- icon: github-square
+- icon: github
   icon_pack: fab
   link: https://github.com/LeonhardFeiner
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "https://www.translatum.tum.de/en/translatum/research-groups/daniel-rueckert-ai-in-healthcare-and-medicine/"
@@ -66,5 +64,4 @@ user_groups:
 - "Researchers"
 ---
 
-Leonhard Feiner is a Ph.D. student at the Institutes of Radiology and Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). 
-His research interest lies in the field of machine learning in medical imaging with focus on pulmonary diseases. In 2020 he graduated with a Master of Science in Robotics, Cognition and Intelligence at TUM with the focus on Machine and Deep Learning. His Master's thesis deals with Sparse Convolutions for Semantic 3D Instance Segmentation and was conducted at the Visual Computing Lab at TUM.
+I am a Ph.D. student at the Institutes of Radiology and Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). My research focuses on uncertainty estimation in deep learning settings, with a particular emphasis on cascaded model pipelines, correlated uncertainty in high-dimensional settings, and the interplay between epistemic and aleatoric uncertainty in medical imaging. I hold a Master of Science in Robotics, Cognition, and Intelligence from TUM, where I specialized in Machine and Deep Learning.

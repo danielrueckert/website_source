@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Anna Curto Vilalta
+last_name: "Curto Vilalta"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -23,20 +24,19 @@ organizations:
 bio: Multi-Modal Deep Learning in Medical Imaging.
 
 interests:
-- Foundation Models
+- Foundation Models in Medicine
 - Multi-Modal Deep Learning
-- AI in Medical Imaging
+- Unsupervised Learning
 
 education:
-  
   courses:
   - course: Biomedical Engineering and Medical Physics (M.Sc.)
-    institution: Technical University of Munich, Germany
+    institution: TUM
     year: 2023
   - course: Biomedical Engineering (B.Sc.)
-    institution: University of Barcelona, Spain
+    institution: University of Barcelona
     year: 2017
- 
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -44,10 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: anna.curto-vilalta[at]tum.de
+  link: mailto:anna.curto-vilalta@tum.de
 - icon: linkedin
   icon_pack: fab
-  link: linkedin.com/in/anna-cv/
+  link: https://www.linkedin.com/in/anna-cv/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/annacurtovilalta94
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,4 +66,4 @@ user_groups:
 - "Researchers"
 ---
 
-Anna is a doctoral candidate at the Institute of Artificial Intelligence in Medicine (TUM) and the Department of Orthopaedics and Sports Orthopaedics in Klinikum rechts der Isar. Before starting her PhD, she earned her Bachelor's and Master's degrees in Biomedical Engineering. Throughout her Master's studies, she specialized in computer science and artificial intelligence, culminating in a thesis exploring unsupervised, multi-modal deep learning methodologies for bone tumor segmentation. Her current research centers on developing multi-modal foundational models for analyzing and diagnosing musculoskeletal tumors.
+Anna is a doctoral candidate at the Institute of Artificial Intelligence in Medicine (TUM) and the Department of Orthopaedics and Sports Orthopaedics in Klinikum rechts der Isar. Before starting her PhD, she earned her Bachelor's and Master's degrees in Biomedical Engineering. Throughout her Master's studies, she specialized in computer science and artificial intelligence, culminating in a thesis exploring unsupervised, multi-modal deep learning methodologies for bone tumor segmentation. Her current research centers on multimodal deep learning and unsupervised learning to develop foundation models for medical applications, specifically focusing on analyzing and diagnosing musculoskeletal tumors.

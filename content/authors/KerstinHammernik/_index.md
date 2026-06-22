@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Kerstin Hammernik
+last_name: "Hammernik"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Scientist
+role: Research scientist
 
 # Organizations/Affiliations
 organizations:
@@ -26,22 +27,20 @@ interests:
 - MRI
 - Medical Image Computing
 
-
 education:
-  
   courses:
   - course: PostDoc
-    institution: Imperial College London, United Kingdom
+    institution: Imperial College London
   - course: PhD in Computer Science
-    institution: Graz University of Technology, Austria
+    institution: Graz University of Technology
     year: 2019
   - course: MSc in Biomedical Imaging
-    institution: Graz University of Technology, Austria
+    institution: Graz University of Technology
     year: 2015
   - course: BSc in Biomedical Engineering
-    institution: Graz University of Technology, Austria
+    institution: Graz University of Technology
     year: 2011
-  
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -50,15 +49,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:k.hammernik@tum.de
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.at/citations?user=IIqyUmAAAAAJ
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/khammernik/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/khammernik
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,4 +67,4 @@ user_groups:
 - "Alumni"
 ---
 
-Kerstin Hammernik is a research scientist at the Institute of Artificial Intelligence and Informatics in Medicine, Technical University of Munich, Germany and at the Department of Computing, Imperial College London, United Kingdom. In 2019, she received her PhD degree in Computer Science from Graz University of Technology, Austria. Her PhD thesis "Variational Networks for Medical Image Reconstruction" was supervised by Prof. Thomas Pock, Institute of Computer Graphics and Vision, Graz University of Technology. During her PhD, she spent four months as a research intern at the Center for Advanced Imaging Innovation and Research, New York University School of Medicine, USA. Her research interests are inverse problems and machine learning in medical imaging, with a special focus on fast MRI acquisition and reconstruction for cardiac and musculoskeletal applications
+Kerstin Hammernik is a research scientist at the Institute of Artificial Intelligence and Informatics in Medicine, Technical University of Munich, Germany and at the Department of Computing, Imperial College London, United Kingdom. In 2019, she received her PhD degree in Computer Science from Graz University of Technology, Austria. Her PhD thesis 'Variational Networks for Medical Image Reconstruction' was supervised by Prof. Thomas Pock, Institute of Computer Graphics and Vision, Graz University of Technology. During her PhD, she spent four months as a research intern at the Center for Advanced Imaging Innovation and Research, New York University School of Medicine, USA. Her research interests are inverse problems and machine learning in medical imaging, with a special focus on fast MRI acquisition and reconstruction for cardiac and musculoskeletal applications.

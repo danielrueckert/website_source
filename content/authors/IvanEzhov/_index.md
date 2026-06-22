@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Ivan Ezhov
+last_name: "Ezhov"
 
 # Username (this should match the folder name)
 authors:
@@ -28,13 +29,12 @@ interests:
 education:
   courses:
   - course: Informatics (Ph.D.)
-    institution: Technical University of Munich  
+    institution: TUM
   - course: Physics (M.Sc.)
-    institution: Technical University of Munich
+    institution: TUM
   - course: Physics (B.Sc.)
-    institution: Saint-Petersburg Polytechnic University 
+    institution: Saint-Petersburg Polytechnic University
 
- 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -61,5 +61,4 @@ user_groups:
 - "Senior Researchers"
 ---
 
-Ivan Ezhov is a research scientist at the Institute of Artificial Intelligence in Medicine at the Technical University of Munich. 
-His research focus is at the intersection of biophysical modeling, inverse problems, and machine learning.
+Ivan Ezhov is a research scientist at the Institute of Artificial Intelligence in Medicine at the Technical University of Munich. His research focus is at the intersection of biophysical modeling, inverse problems, and machine learning.

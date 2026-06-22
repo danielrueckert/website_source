@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Márton Szép
+title: "Márton Szép"
+last_name: "Szép"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -28,18 +29,17 @@ interests:
 - Multimodal AI
 
 education:
-  
   courses:
   - course: Robotics, Cognition, and Intelligence (M.Sc.)
-    institution: Technical University of Munich, Germany
+    institution: TUM
     year: 2022
   - course: Mechatronics Engineering (M.Sc.)
-    institution: Technical University of Budapest, Hungary
+    institution: Technical University of Budapest
     year: 2022
   - course: Mechatronics Engineering (B.Sc.)
-    institution: Technical University of Budapest, Hungary
+    institution: Technical University of Budapest
     year: 2020
- 
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -47,10 +47,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: marton.szep[at]tum.de
+  link: mailto:marton.szep@tum.de
 - icon: linkedin
   icon_pack: fab
-  link: linkedin.com/in/marton-szep/
+  link: https://www.linkedin.com/in/marton-szep/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/martonszep
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,4 +69,4 @@ user_groups:
 - "Researchers"
 ---
 
-Márton is a doctoral student at the Institute of Artificial Intelligence in Medicine at the Technical University of Munich (TUM) and working as a medical data scientist at the Department of Orthopaedics, University Hospital rechts der Isar at TUM. He completed his Master’s degrees in Robotics, Cognition, and Intelligence at TUM and Mechatronics Engineering at the Technical University of Budapest. His current research concetrates on medical natural language processing with generative models.
+Márton Szép is a PhD candidate at the Institute of Artificial Intelligence in Medicine at the Technical University of Munich (TUM) and a medical data scientist at the Department of Orthopaedics, TUM University Hospital. He completed his Master's degrees in Robotics, Cognition, and Intelligence at TUM and Mechatronics Engineering at the Technical University of Budapest. His Master's theses focused on incorporating inductive biases in machine learning for physics and building recommender systems using structured text data, respectively. His current research concentrates on medical natural language processing, exploring various aspects, including efficiency, privacy, retrieval-augmented generation, and information extraction.

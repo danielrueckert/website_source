@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Martin Menten
+last_name: "Menten"
 
 # Username (this should match the folder name)
 authors:
@@ -21,23 +22,22 @@ organizations:
 bio: My research interests include weakly and unsupervised learning, generative modeling and their applications in opthamology
 
 interests:
-- Weakly and unsupervised deep learning
-- Generative modeling
-- Ophthalmologic imaging
-
+- Medical image analysis
+- Self-supervised learning
+- Multimodal deep learning
+- Ophthalmological imaging
 
 education:
-  
   courses:
   - course: PostDoc
-    institution: Imperial College London, United Kingdom
+    institution: Imperial College London
   - course: PhD in Physics
-    institution: The Institute of Cancer Research, London, United Kingdom
+    institution: The Institute of Cancer Research, London
   - course: MSc in Physics
-    institution: Heidelberg University, Germany
+    institution: Heidelberg University
   - course: BSc in Physics
-    institution: Heidelberg University, Germany
-  
+    institution: Heidelberg University
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -46,15 +46,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:martin.menten@tum.de
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=FSlGL2oAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/martinmenten/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/martinmenten
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,4 +64,4 @@ user_groups:
 - "Senior Researchers"
 ---
 
-Martin Menten is a senior researcher at the Institute of Artificial Intelligence and Informatics in Medicine. He is also affiliated with the BioMedIA group at Imperial College London. His research explores the development and application of machine learning algorithms for ophthalmology. In particular, he is interested in advancing the understanding and clinical management of age-related macular degeneration, the leading cause of blindness in the elderly. Before joining the lab of Professor Rueckert, Martin received his PhD in physics from the Institute of Cancer Research in 2018. There, he researched strategies to adapt external beam radiotherapy to anatomical changes in real-time in order to increase cure rates and reduce side effects of cancer treatments.
+Martin Menten is Emmy Noether research group leader at the Chair for Artificial Intelligence in Healthcare and Medicine. He is also affiliated with the Munich Center for Machine Learning and the BioMedIA group at Imperial College London. His research focuses on the development and application of machine learning algorithms for medical imaging and ophthalmology. Before joining the chair, Martin received his PhD in physics from the Institute of Cancer Research in 2018. There, he researched strategies to adapt external beam radiotherapy to anatomical changes in real-time in order to increase cure rates and reduce side effects of cancer treatments.

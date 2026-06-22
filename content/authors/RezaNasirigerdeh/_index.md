@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Reza Nasirigerdeh
+last_name: "Nasirigerdeh"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -26,18 +27,17 @@ interests:
 - Medical imaging
 
 education:
-  
   courses:
-  - course: M.Sc. in  Computer Science
-    institution: University of California, Santa Cruz, United States
+  - course: M.Sc. in Computer Science
+    institution: UC Santa Cruz
     year: 2019
   - course: M.Sc. in Computer Engineering
     institution: Iran University of Science and Technology
     year: 2014
   - course: B.Sc. in Computer Engineering
-    institution: K.N. Toosi University of Technology, Iran
+    institution: K.N. Toosi University of Technology
     year: 2011
-  
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -58,7 +58,7 @@ email: "reza.nasirigerdeh@tum.de"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Researchers"
+- "Alumni"
 ---
 
-Reza Nasirigerdeh is a Ph.D. student at the Institute of Artificial Intelligence in Medicine at the Technical University of Munich (TUM). He received his first master's degree in computer engineering (computer networks) from the Iran University of Science and Technology (IUST) and second master's degree in computer science (distributed systems) from the University of California, Santa Cruz (UCSC). His research focus is on privacy-preserving machine learning in general and federated learning in particular. He is currently developing the HyFed framework for general-purpose federated learning applications, sPLINK for federated genome-wide association studies, FedMMB for federated deep learning, and Flimma for federated gene expression analysis.
+Reza Nasirigerdeh is a Ph.D. student at the Institute of Artificial Intelligence in Medicine at the Technical University of Munich (TUM). He received his first master's degree in computer engineering (computer networks) from the Iran University of Science and Technology (IUST) and his second master's degree in computer science (distributed systems) from the University of California, Santa Cruz (UCSC). His research focus is on privacy-preserving machine learning in general and federated learning in particular. He is currently developing the HyFed framework for general-purpose federated learning applications, sPLINK for federated genome-wide association studies, FedMMB for federated deep learning, and Flimma for federated gene expression analysis.

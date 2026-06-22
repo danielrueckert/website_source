@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Maik Dannecker
+last_name: "Dannecker"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -22,21 +23,19 @@ bio: My research interests include machine learning in medical imaging
 
 interests:
 - Medical Imaging
-- Deep Learning
+- Implicit Neural Representations
 - Biomarker Discovery
-- Demystifying The Human Brain
+- Brain-Growth Modeling
 
 education:
-  
   courses:
-  - course: MSc in Informactics
-    institution: Technical University of Munich, Germany
+  - course: MSc in Informatics
+    institution: TUM
     year: 2021
-    
   - course: BSc in Informatics
-    institution: Technical University of Munich, Germany
+    institution: TUM
     year: 2019
-   
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -60,4 +59,4 @@ user_groups:
 - "Researchers"
 ---
 
-Maik Dannecker is a PhD student at the Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). He received his Bachelor’s and Master's degrees in Informatics from TUM. In this Master's thesios he compared classic and deep learning methods for deformable image registration in CT scans of the lungs. In his PhD he is developing methods for the quatification and prediction of abnormal growth of the brain in fetal MRI.
+Maik Dannecker is a doctoral researcher at the AI in Healthcare and Medicine Chair at the Technical University of Munich (TUM). He received his Bachelor's and Master's degrees in Informatics from TUM. In his Master's thesis he compared classic and deep learning methods for deformable CT lung registration. During his PhD, he is developing methods for the quantification and prediction of abnormal growth patterns of perinatal brains.

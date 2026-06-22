@@ -1,7 +1,7 @@
-
 ---
 # Display name
 title: Ricardo Smits Serena
+last_name: "Smits Serena"
 
 # Username (this should match the folder name)
 authors:
@@ -11,15 +11,15 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Clinic for Orthopaedics and Sport Orthopaedics, Klinikum rechts der Isar
-  url: "https://ortho.mri.tum.de/klinik.html"
+- name: Institute of AI in Healthcare and Medicine, Technical University of Munich
+  url: "https://www.translatum.tum.de/en/translatum/research-groups/daniel-rueckert-ai-in-healthcare-and-medicine/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Time Series Classification on Medical Wearable Data.
+#bio:
 
 interests:
 - Medical Wearable Technology
@@ -27,15 +27,14 @@ interests:
 - Gait Analysis
 
 education:
-  
   courses:
-  - course: M. Sc. Biomedical Computing
-    institution: Technical University of Munich, Germany
+  - course: M.Sc. Biomedical Computing
+    institution: TUM
     year: 2019
-  - course: B. Sc. Biomedical Engineering
+  - course: B.Sc. Biomedical Engineering
     institution: Tecnologico de Monterrey, Mexico
     year: 2014
- 
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -43,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: ricardo.smits[at]tum.de
+  link: mailto:ricardo.smits@tum.de
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ricardo-smits/
@@ -54,7 +53,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ricardo.smits@tum.de"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

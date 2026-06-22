@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Aswathi
+title: Aswathi Varma
+last_name: "Varma"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -23,16 +24,15 @@ bio: My main research interests lie in the domain of geometric deep-learning tec
 interests:
 - Medical Imaging Computing
 
-
 education:
   courses:
   - course: MSc Control and Robotics, Signal and Image Processing
-    institution: Ecole Centrale de Nantes, France
+    institution: Ecole Centrale de Nantes
     year: 2022
   - course: BTech Electronics and Communication
-    institution: University of Kerala, India
+    institution: University of Kerala
     year: 2017
- 
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -41,7 +41,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:aswathi@tum.de
-
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,5 +56,4 @@ user_groups:
 - "Researchers"
 ---
 
-Aswathi is a PhD student co-supervised by Prof. Daniel Rückert (AI for Medicine) and PD Dr. Benedikt Wiestler (Neuroradiology). She obtained her Bachelor’s in Electronics and Communication Engineering from the University of Kerala, India. She pursued her Master’s in Control and Robotics, Signal and Image Processing at Ecole Centrale de Nantes, France. Aswathi carried out her Master’s thesis on the survival analysis of lymphoma patients using graph learning techniques. Her research interests lie in the domain of geometric deep-learning techniques for medical applications. Currently, she is working on deep-learning for longitudinal MRI analysis of multiple sclerosis patients.
-
+Aswathi is a Doctoral researcher co-supervised by Prof. Daniel Rückert (AI for Medicine) and PD Dr. Benedikt Wiestler (Neuroradiology). She obtained her Bachelor's in Electronics and Communication Engineering from the University of Kerala, India. She pursued her Master's in Control and Robotics, Signal and Image Processing at Ecole Centrale de Nantes, France. Aswathi carried out her Master's thesis on the survival analysis of lymphoma patients using graph learning techniques. Her research interests lie in the domain of geometric deep-learning techniques for medical applications. Currently, she is working on deep-learning for longitudinal MRI analysis of multiple sclerosis patients.

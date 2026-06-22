@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Shuting Liu
+last_name: "Liu"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -22,19 +23,17 @@ bio: My research interests include machine learning in medical imaging
 
 interests:
 - Multi-modality Image Analysis
-- Domain Transfer 
+- Domain Transfer
 
 education:
-  
   courses:
   - course: MSc in Biomedical Engineering
-    institution: Tsinghua University, China
+    institution: Tsinghua University
     year: 2021
-
   - course: BSc in Computer Science and Engineering
     institution: Northeastern University, China
     year: 2018
-  
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -58,4 +57,4 @@ user_groups:
 - "Researchers"
 ---
 
-Shuting Liu is a Ph.D. student at the Institutes of Radiology and Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). She received her Master’s degree in Tsinghua University, Beijing, China. Her previous research focused on virtual immunohistochemical stain transfer based on Generative Adversarial Network. Her research interests include deep learning for domain transfer and multi-modality images analysis.
+Shuting Liu is a Ph.D. student at the Institutes of Radiology and Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). She received her Master's degree in Tsinghua University, Beijing, China. Her previous research focused on virtual immunohistochemical stain transfer based on Generative Adversarial Network. Her research interests include deep learning for domain transfer and multi-modality images analysis.

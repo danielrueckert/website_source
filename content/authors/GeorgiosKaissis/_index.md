@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Georgios Kaissis
+last_name: "Kaissis"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Research Scientist
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +28,6 @@ interests:
 - Medical image computing
 - Probabilistic methods
 
-
 education:
   courses:
   - course: PostDoc in AI for medical imaging
@@ -39,9 +39,8 @@ education:
   - course: Medical Degree
     institution: LMU Munich
   - course: Master of Healthcare Business Administration
-    institution: FAU Erlangen-Nürnberg
+    institution: "FAU Erlangen-Nürnberg"
 
- 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -50,15 +49,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:g.kaissis@tum.de
-- icon: twitter
+- icon: github
   icon_pack: fab
-  link: https://twitter.com/GKaissis
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=g-WdmSgAAAAJ&hl=en
-- icon: globe
-  icon_pack: fas
-  link: https://g-k.ai
+  link: https://g-k.ai/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,9 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Senior Researchers
+- "Senior Researchers"
 ---
 
-Georgios Kaissis is a senior research scientist at the Institute of Artificial Intelligence and Informatics in Medicine and specialist diagnostic radiologist at the Institute for Radiology at TUM, a postdoctoral researcher at the Department of Computing at Imperial College London and leads the Healthcare Unit at OpenMined. His research concentrates on biomedical image analysis with a focus on next-generation privacy-preserving machine learning methods as well as probabilistic methods for the design and deployment of robust, secure, fair and transparent machine learning algorithms to medical imaging workflows. 
-
-
+Georgios Kaissis is a senior research scientist at the Institute of Artificial Intelligence and Informatics in Medicine and specialist diagnostic radiologist at the Institute for Radiology at TUM, a postdoctoral researcher at the Department of Computing at Imperial College London and leads the Healthcare Unit at OpenMined. His research concentrates on biomedical image analysis with a focus on next-generation privacy-preserving machine learning methods as well as probabilistic methods for the design and deployment of robust, secure, fair and transparent machine learning algorithms to medical imaging workflows.

@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Henrik von Kleist
+last_name: "von Kleist"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Affliated Researcher
+role: Affiliated Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -20,23 +21,21 @@ organizations:
   url: "https://www.helmholtz-muenchen.de/icb/research/groups/optimization-of-patient-treatment/team/index.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Henrik von Kleist is working on uncertainty quantification and causal inference to improve individualized patient diagnosis and treatment. 
+bio: Henrik von Kleist is working on uncertainty quantification and causal inference to improve individualized patient diagnosis and treatment.
 
 interests:
 - Interpretable AI
 - Uncertainty quantification in ML
 - Causal inference
 
-
 education:
   courses:
   - course: M.Sc. in Data Engineering and Analytics
-    institution: Technical University of Munich
+    institution: TUM
     year: 2020
   - course: B.Sc. in Engineering Science
-    institution: Technical University of Munich
+    institution: TUM
     year: 2017
-  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -58,7 +57,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Collaborators
+- "Collaborators"
 ---
 
-Henrik von Kleist is a PhD student at Helmholtz Zentrum München and Technical University of Munich (TUM) within the program of the Munich School of Data Science (MUDS). He received his Master’s degree in Data Engineering and Analytics from TUM in 2020. During his Master’s thesis at Harvard Medical School, he developed a motion compensation algorithm for fetal cardiac magnetic resonance imaging. Currently, he is working on uncertainty quantification and causal inference to improve individualized patient diagnosis and treatment. 
+Henrik von Kleist is a Doctoral researcher at Helmholtz Zentrum München and Technical University of Munich (TUM) within the program of the Munich School of Data Science (MUDS). He received his Master's degree in Data Engineering and Analytics from TUM in 2020. During his Master's thesis at Harvard Medical School, he developed a motion compensation algorithm for fetal cardiac magnetic resonance imaging. Currently, he is working on uncertainty quantification and causal inference to improve individualized patient diagnosis and treatment.

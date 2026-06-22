@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Tamara Müller
+title: "Tamara Müller"
+last_name: "Müller"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +28,6 @@ interests:
 - Geometric Deep Learning
 - Computational Neuroscience
 
-
 education:
   courses:
   - course: MPhil in Advanced Computer Science
@@ -36,7 +36,7 @@ education:
   - course: B.Sc. in Informatics
     institution: Ludwig-Maximilians University of Munich
     year: 2017
- 
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -57,10 +57,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Researchers"
+- "Alumni"
 ---
 
-Tamara Müller is a PhD student at the Institutes of Radiology and Artificial Intelligence and Informatics in Medicine at TUM. She received her Bachelor's degree in Informatics at the Ludwig-Maximilians University in Munich and graduated with a Master's degree in Advanced Computer Science from the University of Cambridge in 2018. In her Master's thesis, Tamara developed a clinical decision support system for neurological diseases, which is focusing on interpretability and user-friendliness. From 2019 to 2020, Tamara was a research assistant in Computational Neuroscience at the Technical University of Munich, researching concept cells in single cell recordings of human epilepsy patients. Currently, she is researching applications of geometric deep learning in radiology with a focus on pancreatic ductal adenocarcinoma.
-
-
-
+Tamara Müller is a Doctoral researcher at the Institutes of Radiology and Artificial Intelligence and Informatics in Medicine at TUM. She received her Bachelor's degree in Informatics at the Ludwig-Maximilians University in Munich and graduated with a Master's degree in Advanced Computer Science from the University of Cambridge in 2018. In her Master's thesis, Tamara developed a clinical decision support system for neurological diseases, which is focusing on interpretability and user-friendliness. From 2019 to 2020, Tamara was a research assistant in Computational Neuroscience at the Technical University of Munich, researching concept cells in single cell recordings of human epilepsy patients. Currently, she is researching applications of geometric deep learning in radiology with a focus on pancreatic ductal adenocarcinoma.

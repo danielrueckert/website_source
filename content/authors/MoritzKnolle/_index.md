@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Moritz Knolle
+last_name: "Knolle"
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -26,8 +27,6 @@ interests:
 - Differential Privacy
 - Fair & Trustworthy ML
 - Memorisation in Neural Networks
-
-
 
 education:
   courses:
@@ -46,16 +45,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:moritz.knolle@tum.de
-- icon: github
-  icon_pack: fab
-  link: https://github.com/moritzknolle
 - icon: linkedin
   icon_pack: fab
   link: https://de.linkedin.com/in/moritz-knolle
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=-2XlKV8AAAAJ&hl=en
-
+- icon: github
+  icon_pack: fab
+  link: https://github.com/moritzknolle
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,13 +66,4 @@ user_groups:
 - "Researchers"
 ---
 
-I'm a PhD Candidate at the Chair for Artificial Intelligence in Medicine (TUM) and member of the Konrad Zuse School for Excellence in Reliable AI. Before starting my PhD, I graduated from Imperial College London with an MSc. in Advanced Computing and a BSc. from the University of Sussex.
-
-My research is broadly focused around theoretical and practical aspects of trust and reliability in machine learning (ML) for medicine. I'm particularily interested in:
-
-- understanding why and how neural networks memorise their training data
-- improving utility & reliability of differentially private ML
-- bias and fairness issues related to the deployment of ML models
-- ML for scientific discovery and precision medicine
-
-
+I'm a PhD Candidate at the Chair for Artificial Intelligence in Medicine (TUM) and member of the Konrad Zuse School for Excellence in Reliable AI. Before starting my PhD, I graduated from Imperial College London with an MSc. in Advanced Computing and a BSc. from the University of Sussex. My research is broadly focused around theoretical and practical aspects of trust and reliability in machine learning (ML) for medicine. I'm particularly interested in: understanding why and how neural networks memorise their training data; improving utility & reliability of differentially private ML; bias and fairness issues related to the deployment of ML models; and ML for scientific discovery and precision medicine.
